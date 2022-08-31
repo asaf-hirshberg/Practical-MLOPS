@@ -1,0 +1,6 @@
+.coverage
+__pycache__/
+bin/
+lib/
+venv
+pyvenv.cfg
